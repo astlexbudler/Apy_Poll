@@ -1,0 +1,18 @@
+.button {
+  margin: 5px;
+  padding: 10px;
+  background-color: lightblue;
+  border-radius: 5px;
+  border: blue solid 1px;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: blue;
+  color: white;
+}
+
+.button:active {
+  background-color: darkblue;
+}
